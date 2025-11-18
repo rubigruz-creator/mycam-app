@@ -45,5 +45,23 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	<!-- Описание для запроса разрешения камеры -->
+	<key>NSCameraUsageDescription</key>
+	<string>This app uses the camera to take pictures of products.</string>
+	<!-- Описание для запроса разрешения фото-библиотеки -->
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs access to your photo library to save pictures.</string>
+	<!-- Разрешение на добавление фото в библиотеку (для сохранения) -->
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app needs to save pictures to your photo library.</string>
+
+
+
+
+
+
+
+
 </dict>
 </plist>

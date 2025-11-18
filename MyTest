@@ -108,7 +108,7 @@ flutter run
 git quick-save
 
 # Или с сообщением
-git save "VseOK_filepicker_gotov1" 
+git save "VseOK_MyFoto_Gotovo" 
 
 # Создать новую ветку
 git feature new-functionality
